@@ -24,7 +24,10 @@ const PrivacyPolicy = () => {
           <p className="text-lg leading-relaxed mt-4">
             We use Your Personal data to provide and improve the Service. By using the Service, You
             agree to the collection and use of information in accordance with this Privacy Policy.
-            This Privacy Policy has been created with the help of the Free Privacy Policy Generator.
+            This Privacy Policy has been created with the help of the{' '}
+            <strong className="text-[#1E1EFF] text-lg font-normal">
+              Free Privacy Policy Generator
+            </strong>
           </p>
         </section>
 
@@ -52,8 +55,11 @@ const PrivacyPolicy = () => {
               or other managing authority.
             </li>
             <li>
-              <strong>Company</strong> (referred to as either "the Company", "We", "Us" or "Our" in
-              this Agreement) refers to ChainCap Market, 1234 Tech Avenue, Silicon Valley, CA 94088.
+              <strong>Application</strong> refers to ChainCap Market, the software program provided
+              by the Company.
+            </li>
+            <li>
+              <strong>Country refers to:</strong> California, United States.
             </li>
             <li>
               <strong>Device</strong> means any device that can access the Service such as a
@@ -61,13 +67,13 @@ const PrivacyPolicy = () => {
             </li>
             <li>
               <strong>Personal Data</strong> is any information that relates to an identified or
-              identifiable individual.
+              identifiable individual. Service refers to the Application.
             </li>
             <li>
               <strong>Service</strong> refers to the Website.
             </li>
             <li>
-              <strong>Service Provider</strong> means any natural or legal person who processes the
+              <strong>Service Provider</strong>means any natural or legal person who processes the
               data on behalf of the Company. It refers to third-party companies or individuals
               employed by the Company to facilitate the Service, to provide the Service on behalf of
               the Company, to perform services related to the Service or to assist the Company in
